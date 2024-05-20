@@ -5,7 +5,7 @@ Utilizei a Clean Architecture com as camadas:
 
 - API
 - Application
-- Dmoain
+- Domain
 - Infra.Data
 - Infra.Ioc
 
