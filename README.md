@@ -1,4 +1,4 @@
-Desasfio:
+Desafio:
 
 Criei um projeto Ltda com um CRUD.
 Utilizei a Clean Architecture com as camadas:
